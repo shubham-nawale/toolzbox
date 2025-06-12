@@ -30,8 +30,8 @@ function App() {
     <Router>
       <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300 p-4 font-sans">
         <div className="flex justify-between items-center mb-6">
-        <Link to="/" className="text-3xl font-bold text-purple-700 dark:text-purple-300 hover:underline">
-          🧰 ToolzBox
+        <Link to="/toolzbox" className="text-3xl font-bold text-purple-700 dark:text-purple-300 hover:underline">
+        🏠Home
         </Link>
           <div className="space-x-2">
             <button onClick={() => changeLanguage('en')} className="px-2 py-1 bg-gray-200 dark:bg-gray-700 rounded">English</button>
