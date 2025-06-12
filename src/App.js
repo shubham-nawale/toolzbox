@@ -43,7 +43,7 @@ function App() {
           </div>
         </div>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/toolzbox" element={<Home />} />
           <Route path="/age-calculator" element={<AgeCalculator />} />
           <Route path="/date-diff" element={<DateDiffCalculator />} />
           <Route path="/unit-converter" element={<UnitConverter />} />
