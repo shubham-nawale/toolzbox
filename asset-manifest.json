@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toolzbox/static/css/main.678e9183.css",
+    "main.js": "/toolzbox/static/js/main.fe28eaf9.js",
+    "static/js/453.13e203d9.chunk.js": "/toolzbox/static/js/453.13e203d9.chunk.js",
+    "index.html": "/toolzbox/index.html",
+    "main.678e9183.css.map": "/toolzbox/static/css/main.678e9183.css.map",
+    "main.fe28eaf9.js.map": "/toolzbox/static/js/main.fe28eaf9.js.map",
+    "453.13e203d9.chunk.js.map": "/toolzbox/static/js/453.13e203d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.678e9183.css",
+    "static/js/main.fe28eaf9.js"
+  ]
+}
